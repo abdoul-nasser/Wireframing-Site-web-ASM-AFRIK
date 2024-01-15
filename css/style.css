@@ -6,6 +6,18 @@ body{
 }
 
 /* couleurs*/
+.prim-blue{
+    color: #003D67;
+}
+.sec-blue{
+    color: #52bcf5;
+}     
+.colgris{
+    color: #9C9C9C;
+}
+.bggris{
+    background-color: #F9F9FF;
+}
 
 
 
