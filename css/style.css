@@ -21,8 +21,45 @@ body{
 
 
 
-/**/
+/*Mes titres*/
+.titresection{
+    font-size: 1.725rem;
+    color: #003D67;
+    text-transform: capitalize;
+    font-weight: 600;
+    text-align: center;
+}
 
-/**/
+
+
+
+/*Ce qu'ils disent de nous*/
+
+.hiring {
+    background-image: url("../assets/Groupe 146.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.imgcard{
+    position: absolute;
+    top: -15%;
+    width: 100%;
+}
+.cardcontent {
+    font-size: 1rem;
+    font-weight: 300;
+    color: #9C9C9C;
+    text-align: justify;
+}
+.cardname{
+    font-size: 1.2rem;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.cardpost{
+    font-size: 0.885rem;
+    font-weight: 400;
+}
 
 /**/
