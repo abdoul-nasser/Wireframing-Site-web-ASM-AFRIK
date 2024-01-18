@@ -125,3 +125,21 @@ body{
     width: 1rem;
     margin-left: 1rem;
 }
+
+/* Notre Équipe */
+.imgteam{
+    border-radius: 50%;
+    width: 85%;
+}
+.nameteam{
+    font-size: 1.2rem;
+    color: #52bcf5;
+    text-transform: capitalize;
+    margin-top: 1rem;
+    padding-bottom: 0;
+    margin-bottom: 0.5rem;
+}
+.fonder{
+    font-size: 0.8rem;
+    color: #0A304A;
+}
