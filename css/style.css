@@ -95,6 +95,14 @@ body{
 }
 
 
+/* */
+.tabsprojet{
+    border-bottom: 1px solid #c1c1c1;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+}
+
+
 /* Notre ERP ASM Activator */
 .retraine{
     text-align: center;
@@ -142,4 +150,14 @@ body{
 .fonder{
     font-size: 0.8rem;
     color: #0A304A;
+}
+
+
+
+/* */
+.contactsection{
+    background-image: url("../assets/svg/Trace1696.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10%;
 }
